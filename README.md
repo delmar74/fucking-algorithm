@@ -1,3 +1,7 @@
+English version: https://github.com/delmar74/fucking-algorithm/tree/english
+
+---
+
 English version repo and Gitbook is on [english branch](https://github.com/labuladong/fucking-algorithm/tree/english). Just enjoy：)
 
 # 前言
